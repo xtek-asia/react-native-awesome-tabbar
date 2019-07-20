@@ -61,7 +61,7 @@ Initial Build
 
 ## LICENSE!
 
-react-native-awesome-tabbar is [MIT-licensed]().
+react-native-awesome-tabbar is [MIT-licensed](https://github.com/xtek-asia/react-native-awesome-tabbar/blob/master/LICENSE).
 
 ## Let us know!
 
