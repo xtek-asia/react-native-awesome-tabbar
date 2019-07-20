@@ -1,0 +1,43 @@
+{
+  "name": "react-native-awesome-tabbar",
+  "version": "1.0.4",
+  "description": "The awesome tabbar made with react native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "tabbar",
+    "awesome",
+    "custom",
+    "beautyful",
+    "interaction"
+  ],
+  "author": "Nguyễn Thanh Lộc <locnguyen99dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "babel-preset-react-native": "^4.0.1",
+    "jest": "^24.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.3"
+  },
+  "files": [
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xtek-asia/react-native-awesome-tabbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xtek-asia/react-native-awesome-tabbar/issues"
+  },
+  "homepage": "https://github.com/xtek-asia/react-native-awesome-tabbar#readme"
+}
