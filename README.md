@@ -53,12 +53,6 @@ import TabBar from "react-native-awesome-tabbar";
 | backgroundColor | string       | optional          | background color of tab  |
 | count           | object       | optional          | for badge of icon        |
 
-## Changelog
-
-### Version: 1.0
-
-Initial Build
-
 ## LICENSE!
 
 react-native-awesome-tabbar is [MIT-licensed](https://github.com/xtek-asia/react-native-awesome-tabbar/blob/master/LICENSE).
