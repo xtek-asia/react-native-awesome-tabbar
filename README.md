@@ -44,14 +44,14 @@ import TabBar from "react-native-awesome-tabbar";
 
 ## Props
 
-| prop            | value        | required/optional | description              |
-| --------------- | ------------ | ----------------- | ------------------------ |
-| title           | string       | required          | title of item            |
-| icon            | image source | required          | icon of item             |
-| activeColor     | string       | optional          | color when item is focus |
-| onChangeTab     | function     | optional          | color of item            |
-| backgroundColor | string       | optional          | background color of tab  |
-| count           | object       | optional          | for badge of icon        |
+| prop            | value        | required/optional | description                  |
+| --------------- | ------------ | ----------------- | ---------------------------- |
+| title           | string       | required          | title of item                |
+| icon            | image source | required          | icon of item                 |
+| activeColor     | string       | optional          | color when item is focus     |
+| onChangeTab     | function     | optional          | callback when switching tabs |
+| backgroundColor | string       | optional          | background color of tab      |
+| count           | object       | optional          | for badge of icon            |
 
 ## LICENSE!
 
